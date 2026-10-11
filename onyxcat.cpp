@@ -1,4 +1,4 @@
-// author : github.com/pwnmit
+// author : github.com/r0xkrnl
 
 #include <iostream>
 #include <windows.h>
